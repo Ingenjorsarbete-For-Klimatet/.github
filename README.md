@@ -1,2 +1,0 @@
-# .github
-Ingenjörsarbete För Klimatet
